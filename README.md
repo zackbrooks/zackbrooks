@@ -3,7 +3,7 @@ Hi 👋 My name is Zack Brooks
 Full Stack Software Engineer
 ----------------------------
 Driven, creative, software engineer with a passion for coding. Critical thinker who is always looking for opportunities to learn. Proven track record of developing and implementing successful front and back end web applications. Freelancing and running my own trucking company has taught me dedication, patience, and hard work help tremendously in solving problems. Looking to bring my talents to a tech company that's looking to make a difference.  
-🌍  I'm based in Blytheville, AR* 
+* 🌍  I'm based in Blytheville, AR* 
 🖥️  See my portfolio at http://zackbrooks.me 
 ✉️  You can contact me at zibrooksdev@gamil.com 
 🤝  I'm open to collaborating on Anything interesting* 
