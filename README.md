@@ -8,7 +8,6 @@ Driven and creative software engineer with a passion for coding. Critical thinke
 * ✉️  You can contact me at zibrooksdev@gamil.com 
 * 🤝  I'm open to collaborating on anything interesting 
 * ⚡  Xerath Main
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
