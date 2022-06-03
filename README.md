@@ -9,6 +9,8 @@ Driven and creative software engineer with a passion for coding. Critical thinke
 * 🤝  I'm open to collaborating on anything interesting 
 * ⚡  Xerath Main
 
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=ezekelrage&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=ezekelrage&cover_image=true&theme=default&bar_color=ff0000)]]
+
 <h3 align="left">Connect with me:</h3>
 
 ## 🌐Socials
