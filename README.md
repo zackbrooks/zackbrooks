@@ -9,7 +9,7 @@ Driven and creative software engineer with a passion for coding. Critical thinke
 * 🤝  I'm open to collaborating on anything interesting 
 * ⚡  Xerath Main
 
-
+Current Project: Trucking Journal - Digital journal for truckers.
 
 <h3 align="left">Connect with me:</h3>
 
