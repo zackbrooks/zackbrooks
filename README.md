@@ -8,7 +8,6 @@ Driven and creative software engineer with a passion for coding. Critical thinke
 
 *   🌍  I'm based in Arkansas
 *   ✉️  You can contact me at [zibrooksdev@gamil.com](mailto:zibrooksdev@gamil.com)
-*   🧠  I'm learning Python
 *   🤝  I'm open to collaborating on anything interesting that will allow me to improve as a developer
 *   ⚡  Xerath Main### Skills 
 <p align="left">
