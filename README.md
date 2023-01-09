@@ -6,7 +6,7 @@ Full Stack Engineer
 
 Driven and creative software engineer with a passion for coding. Critical thinker who is always looking for opportunities to learn. Proven track record of developing and implementing successful front and back end web applications. Freelancing and running my own trucking company has taught me dedication, patience, communication, and hard work helps tremendously in solving problems. Looking to bring my talents to a tech company that's looking to make a difference.
 
-*   🌍  I'm based in Arkansas
+*   🌍  I'm based in the United States
 *   ✉️  You can contact me at [zibrooksdev@gamil.com](mailto:zibrooksdev@gamil.com)
 *   🤝  I'm open to collaborating on anything interesting that will allow me to improve as a developer
 *   ⚡  Xerath Main
